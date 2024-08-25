@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**zheruiqiu/zheruiqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Zherui Qiu &#x1F44B;
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research focuses on **3D reconstruction**, **3D generation** and their applications. I am passionate about exploring the unknown and pushing the boundaries of AI and emerging technologies.
+
+- &#x1F3EB; **Ph.D. in Data Science** - University of Science and Technology of China (2020 - Present)
+  - I have authored and co-authored 3 papers at the top conferences in the fields of AI and computer graphics.
+
+- &#x1F393; **B.Eng. in Electrical Engineering and Automation** - Southwest Jiaotong University (2016 - 2020)
+  - **National Scholarship** (2016, 2017)
+  - **1<sup>st</sup> Prize** - Contemporary Undergraduate Mathematical Contest in Modeling (2017)
+ 
+## My skills
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png" alt="python" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=q2EvWWP24C1j&format=png" alt="sql" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=piVHs2bMOs6P&format=png" alt="latex" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png" alt="pytorch" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png" alt="huggingface" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png" alt="git" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=uVERmCBZZACL&format=png" alt="notion" width="50" height="50"/>
+</p>
+
+
+## Publications
+
+- **[Deformable NeRF using Recursively Subdivided Tetrahedra](https://openreview.net/forum?id=QayT1wjqYB)**  
+  *ACM Multimedia 2024* - First Author  
+  Introduced DeformRF, a novel framework combining tetrahedral mesh manipulability with high-quality rendering.
+
+- **[Promoting Stochasticity for Expressive Policies via a Simple and Efficient Regularization Method](https://papers.nips.cc/paper/2020/hash/9cafd121ba982e6de30ffdf5ada9ce2e-Abstract.html)**  
+  *NeurIPS 2020* - Third Author  
+  Proposed a novel regularization method compatible with a broad range of expressive policy architectures.
+
+- **PaletteGaussian: 3D Photorealistic Color Editing with Gaussian Splatting**  
+  *ISMAR 2024* (Accepted, to appear) - Fourth Author  
+  Developed a framework combining a palette with 3D-GS for interactive color editing and real-time rendering.
+
+## Honors & Awards
+
+- **National Scholarship** - Awarded by the Chinese Ministry of Education (2016, 2017)
+- **Outstanding Graduate** - Awarded by the Sichuan Provincial Department of Education (2020)
