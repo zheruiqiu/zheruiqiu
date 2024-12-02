@@ -35,8 +35,8 @@ My research focuses on **3D reconstruction**, **3D generation** and their applic
   *NeurIPS 2020* - Third Author  
   Proposed a novel regularization method compatible with a broad range of expressive policy architectures.
 
-- **PaletteGaussian: 3D Photorealistic Color Editing with Gaussian Splatting**  
-  *ISMAR 2024* (Accepted, to appear) - Fourth Author  
+- **[PaletteGaussian: 3D Photorealistic Color Editing with Gaussian Splatting](https://ieeexplore.ieee.org/abstract/document/10765418)**  
+  *ISMAR 2024* - Fourth Author  
   Developed a framework combining a palette with 3D-GS for interactive color editing and real-time rendering.
 
 ## Honors & Awards
