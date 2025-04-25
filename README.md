@@ -39,6 +39,11 @@ My research focuses on **3D reconstruction**, **3D generation** and their applic
   *ISMAR 2024* - Fourth Author  
   Developed a framework combining a palette with 3D-GS for interactive color editing and real-time rendering.
 
+- **[StructuredField: Unifying Structured Geometry and Radiance Field](https://structuredfield.github.io/)**  
+  *Under Review* - Third Author  
+  Propose StructuredField, which reparameterizes tetrahedral mesh geometry as differentiable 3D Gaussian ellipsoids.
+  
+
 ## Honors & Awards
 
 - **National Scholarship** - Awarded by the Chinese Ministry of Education (2016, 2017)
