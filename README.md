@@ -28,23 +28,23 @@ My research focuses on **embodied AI**, **3D reconstruction** and their applicat
 ## Publications
 
 - **[Deformable NeRF using Recursively Subdivided Tetrahedra](https://openreview.net/forum?id=QayT1wjqYB)**  
-  *ACM Multimedia 2024* - First Author
+  *ACM Multimedia 2024* - First Author   
   Introduced DeformRF, a novel framework combining tetrahedral mesh manipulability with high-quality rendering.
 
 - **[Promoting Stochasticity for Expressive Policies via a Simple and Efficient Regularization Method](https://papers.nips.cc/paper/2020/hash/9cafd121ba982e6de30ffdf5ada9ce2e-Abstract.html)**  
-  *NeurIPS 2020* - Third Author
+  *NeurIPS 2020* - Third Author   
   Proposed a novel regularization method compatible with a broad range of expressive policy architectures.
 
 - **[PaletteGaussian: 3D Photorealistic Color Editing with Gaussian Splatting](https://ieeexplore.ieee.org/abstract/document/10765418)**  
-  *ISMAR 2024* - Fourth Author
+  *ISMAR 2024* - Fourth Author   
   Developed a framework combining a palette with 3D-GS for interactive color editing and real-time rendering.
 
 - **[StructuredField: Unifying Structured Geometry and Radiance Field](https://structuredfield.github.io/)**  
-  *Under Review* - Third Author
+  *Under Review* - Third Author   
   Propose StructuredField, which reparameterizes tetrahedral mesh geometry as differentiable 3D Gaussian ellipsoids.
 
 - **[F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions](https://aopolin-lv.github.io/F1-VLA/)**  
-  *Under Review* - Fifth Author
+  *Under Review* - Fifth Author   
   Propose F1, which integrates visual foresight generation into the decision-making pipeline.
 
 ## Honors & Awards
